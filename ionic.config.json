@@ -1,0 +1,7 @@
+{
+  "name": "ameth2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
